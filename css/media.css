@@ -2,7 +2,11 @@
 
 /* Large Devices, Wide Screens */
 
-
+@media only screen and (max-width : 1500px) {
+	header {
+		min-height: 665px !important;
+	}
+}
 
 @media only screen and (max-width : 1200px) {
 	header {
