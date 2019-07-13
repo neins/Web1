@@ -1,1 +1,1 @@
-# One of my first lessons on site layout
+# One of my first lessons about site layout
